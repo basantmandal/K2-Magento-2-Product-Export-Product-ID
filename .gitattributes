@@ -1,4 +1,5 @@
 *.magento linguist-detectable=true
+*.php linguist-language=Magento
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.php linguist-detectable=false
